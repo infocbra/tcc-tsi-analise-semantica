@@ -1,0 +1,1091 @@
+Curso;CBO;Profissão;Similaridade_TFIDF
+Técnico Aeroportuário;342530;Inspetor de aviação civil;0.2127
+Técnico Aeroportuário;342515;Fiscal de aviação civil (fac);0.209
+Técnico Aeroportuário;342555;Fiscal de pista de aeroporto;0.2064
+Técnico Aeroportuário;862160;Operador de abastecimento de combustível de aeronave;0.1679
+Técnico Aeroportuário;517305;Vigilante aeroportuário;0.1648
+Técnico em Administração;242910;Oficial técnico de inteligência;0.1427
+Técnico em Administração;351910;Agente técnico de inteligência;0.1265
+Técnico em Administração;30205;Capitão bombeiro militar;0.1235
+Técnico em Administração;253220;Gerente de grandes contas (corporate);0.1169
+Técnico em Administração;114305;Dirigente e administrador de organização religiosa;0.116
+Técnico em Agenciamento de Viagem;354815;Agente de viagem;0.3201
+Técnico em Agenciamento de Viagem;354810;Operador de turismo;0.3008
+Técnico em Agenciamento de Viagem;354820;Organizador de evento;0.212
+Técnico em Agenciamento de Viagem;511405;Guia de turismo;0.2027
+Técnico em Agenciamento de Viagem;354805;Técnico em turismo;0.2023
+Técnico em Agente Comunitário de Saúde;322255;Técnico em agente comunitário de saúde;0.3284
+Técnico em Agente Comunitário de Saúde;223565;Enfermeiro da estratégia de saúde da família;0.2279
+Técnico em Agente Comunitário de Saúde;515105;Agente comunitário de saúde;0.2035
+Técnico em Agente Comunitário de Saúde;225142;Médico da estratégia de saúde da família;0.1692
+Técnico em Agente Comunitário de Saúde;131225;Sanitarista;0.1671
+Técnico em Agricultura;222130;Agroecólogo;0.2632
+Técnico em Agricultura;222135;Tecnólogo em agroecologia;0.2491
+Técnico em Agricultura;321105;Técnico agrícola;0.2478
+Técnico em Agricultura;321110;Técnico agropecuário;0.2419
+Técnico em Agricultura;223310;Zootecnista;0.2311
+Técnico em Agrimensura;312305;Técnico em agrimensura;0.2905
+Técnico em Agrimensura;312320;Topógrafo;0.2658
+Técnico em Agrimensura;312310;Técnico em geodésia e cartografia;0.2568
+Técnico em Agrimensura;214805;Engenheiro agrimensor;0.2359
+Técnico em Agrimensura;214810;Engenheiro cartógrafo;0.2347
+Técnico em Agroecologia;222130;Agroecólogo;0.3417
+Técnico em Agroecologia;222135;Tecnólogo em agroecologia;0.3064
+Técnico em Agroecologia;321105;Técnico agrícola;0.2629
+Técnico em Agroecologia;321110;Técnico agropecuário;0.2576
+Técnico em Agroecologia;222125;Tecnólogo em agronegócio;0.2332
+Técnico em Agroindústria;223310;Zootecnista;0.2129
+Técnico em Agroindústria;223305;Médico veterinário;0.2023
+Técnico em Agroindústria;222130;Agroecólogo;0.1945
+Técnico em Agroindústria;222135;Tecnólogo em agroecologia;0.1879
+Técnico em Agroindústria;222120;Engenheiro florestal;0.1787
+Técnico em Agronegócio;222130;Agroecólogo;0.3151
+Técnico em Agronegócio;222125;Tecnólogo em agronegócio;0.3012
+Técnico em Agronegócio;222135;Tecnólogo em agroecologia;0.2955
+Técnico em Agronegócio;222105;Engenheiro agrícola;0.1889
+Técnico em Agronegócio;222115;Engenheiro de pesca;0.1882
+Técnico em Agropecuária;222130;Agroecólogo;0.3009
+Técnico em Agropecuária;321110;Técnico agropecuário;0.2954
+Técnico em Agropecuária;321105;Técnico agrícola;0.2897
+Técnico em Agropecuária;222135;Tecnólogo em agroecologia;0.2845
+Técnico em Agropecuária;611005;Produtor agropecuário, em geral;0.2542
+Técnico em Alimentação Escolar;223710;Nutricionista;0.16
+Técnico em Alimentação Escolar;513225;Cozinheiro de embarcações;0.154
+Técnico em Alimentação Escolar;325210;Técnico em nutrição e dietética;0.1527
+Técnico em Alimentação Escolar;516220;Cuidador em saúde;0.1523
+Técnico em Alimentação Escolar;223705;Dietista;0.1477
+Técnico em Alimentos;325205;Técnico de alimentos;0.2224
+Técnico em Alimentos;223305;Médico veterinário;0.1675
+Técnico em Alimentos;325210;Técnico em nutrição e dietética;0.1618
+Técnico em Alimentos;223310;Zootecnista;0.1615
+Técnico em Alimentos;214610;Engenheiro metalurgista;0.1602
+Técnico em Análises Clínicas;322255;Técnico em agente comunitário de saúde;0.1787
+Técnico em Análises Clínicas;221115;Biólogo em saúde;0.147
+Técnico em Análises Clínicas;221110;Biólogo em meio ambiente e biodiversidade;0.1398
+Técnico em Análises Clínicas;322430;Auxiliar em saúde bucal da estratégia de saúde da família;0.1315
+Técnico em Análises Clínicas;221205;Biomédico;0.1294
+Técnico em Apicultura;223310;Zootecnista;0.2414
+Técnico em Apicultura;222130;Agroecólogo;0.2375
+Técnico em Apicultura;223305;Médico veterinário;0.2271
+Técnico em Apicultura;222135;Tecnólogo em agroecologia;0.217
+Técnico em Apicultura;222125;Tecnólogo em agronegócio;0.2071
+Técnico em Aquicultura;222130;Agroecólogo;0.2876
+Técnico em Aquicultura;222135;Tecnólogo em agroecologia;0.2691
+Técnico em Aquicultura;223310;Zootecnista;0.2616
+Técnico em Aquicultura;223305;Médico veterinário;0.2567
+Técnico em Aquicultura;222125;Tecnólogo em agronegócio;0.2283
+Técnico em Arquivo;261305;Arquivista;0.2291
+Técnico em Arquivo;415115;Codificador de dados;0.1905
+Técnico em Arquivo;415120;Fitotecário;0.1793
+Técnico em Arquivo;415105;Arquivista de documentos;0.1772
+Técnico em Arquivo;371110;Técnico em biblioteconomia;0.1698
+Técnico em Artes Circenses;376210;Artista aéreo;0.1729
+Técnico em Artes Circenses;234905;Professor de artes do espetáculo no ensino superior;0.1521
+Técnico em Artes Circenses;376215;Artista de circo (outros);0.151
+Técnico em Artes Circenses;376245;Palhaço;0.1491
+Técnico em Artes Circenses;376205;Acrobata;0.145
+Técnico em Artes Visuais;234910;Professor de artes visuais no ensino superior (artes plásticas e multimídia);0.1722
+Técnico em Artes Visuais;234915;Professor de música no ensino superior;0.1638
+Técnico em Artes Visuais;234905;Professor de artes do espetáculo no ensino superior;0.1564
+Técnico em Artes Visuais;262330;Diretor de arte;0.1351
+Técnico em Artes Visuais;262405;Artista (artes visuais);0.1351
+Técnico em Artesanato;214610;Engenheiro metalurgista;0.0858
+Técnico em Artesanato;113015;Membro de liderança quilombola;0.0849
+Técnico em Artesanato;113010;Líder de comunidade caiçara;0.0848
+Técnico em Artesanato;214605;Engenheiro de materiais;0.083
+Técnico em Artesanato;113005;Cacique;0.0784
+Técnico em Automação Industrial;300110;Técnico em mecatrônica - robótica;0.2424
+Técnico em Automação Industrial;300105;Técnico em mecatrônica - automação da manufatura;0.2329
+Técnico em Automação Industrial;313410;Técnico em instrumentação;0.2215
+Técnico em Automação Industrial;313405;Técnico em calibração;0.1907
+Técnico em Automação Industrial;313415;Encarregado de manutenção de instrumentos de controle, medição e similares;0.1817
+Técnico em Açúcar e Álcool;622110;Trabalhador da cultura de cana-de-açúcar;0.1864
+Técnico em Açúcar e Álcool;325205;Técnico de alimentos;0.1717
+Técnico em Açúcar e Álcool;612110;Produtor de cana-de-açúcar;0.1696
+Técnico em Açúcar e Álcool;841315;Operador de moenda na fabricação de açúcar;0.1648
+Técnico em Açúcar e Álcool;841310;Operador de equipamentos de refinação de açúcar (processo contínuo);0.1567
+Técnico em Biblioteconomia;261205;Bibliotecário;0.2166
+Técnico em Biblioteconomia;261210;Documentalista;0.2146
+Técnico em Biblioteconomia;261215;Analista de informações (pesquisador de informações de rede);0.209
+Técnico em Biblioteconomia;371110;Técnico em biblioteconomia;0.206
+Técnico em Biblioteconomia;261310;Museólogo;0.1957
+Técnico em Biocombustíveis;311105;Técnico químico;0.1973
+Técnico em Biocombustíveis;214610;Engenheiro metalurgista;0.1957
+Técnico em Biocombustíveis;214605;Engenheiro de materiais;0.1945
+Técnico em Biocombustíveis;311115;Técnico em curtimento;0.1611
+Técnico em Biocombustíveis;311110;Técnico de celulose e papel;0.1602
+Técnico em Biotecnologia;325310;Técnico em imunobiológicos;0.2051
+Técnico em Biotecnologia;325305;Técnico em biotecnologia;0.2016
+Técnico em Biotecnologia;221115;Biólogo em saúde;0.167
+Técnico em Biotecnologia;221110;Biólogo em meio ambiente e biodiversidade;0.1634
+Técnico em Biotecnologia;221105;Biólogo;0.1573
+Técnico em Bombeiro Aeronáutico;517110;Bombeiro civil;0.226
+Técnico em Bombeiro Aeronáutico;30305;Tenente do corpo de bombeiros militar;0.2193
+Técnico em Bombeiro Aeronáutico;31110;Sargento bombeiro militar;0.2124
+Técnico em Bombeiro Aeronáutico;31105;Subtenente bombeiro militar;0.2077
+Técnico em Bombeiro Aeronáutico;517105;Bombeiro de aeródromo;0.1824
+Técnico em Brinquedoteca;371415;Brinquedista;0.3152
+Técnico em Brinquedoteca;371410;Recreador;0.2179
+Técnico em Brinquedoteca;331110;Auxiliar de desenvolvimento infantil;0.1843
+Técnico em Brinquedoteca;331105;Professor de nível médio na educação infantil;0.1776
+Técnico em Brinquedoteca;239440;Neuropsicopedagogo clinico;0.1713
+Técnico em Cafeicultura;222130;Agroecólogo;0.2832
+Técnico em Cafeicultura;222135;Tecnólogo em agroecologia;0.2693
+Técnico em Cafeicultura;321110;Técnico agropecuário;0.2561
+Técnico em Cafeicultura;321105;Técnico agrícola;0.2551
+Técnico em Cafeicultura;222125;Tecnólogo em agronegócio;0.2306
+Técnico em Calçados;760405;Supervisor  (indústria de calçados e artefatos de couro);0.1967
+Técnico em Calçados;764105;Cortador de calçados, a  máquina (exceto solas e palmilhas);0.1508
+Técnico em Calçados;764005;Trabalhador polivalente da confecção de calçados;0.1492
+Técnico em Calçados;311105;Técnico químico;0.1462
+Técnico em Calçados;810205;Mestre (indústria de borracha e plástico);0.1423
+Técnico em Canto;262615;Músico regente;0.1663
+Técnico em Canto;262705;Músico intérprete cantor;0.1624
+Técnico em Canto;262710;Músico intérprete instrumentista;0.161
+Técnico em Canto;262605;Compositor;0.1596
+Técnico em Canto;262620;Musicólogo;0.1592
+Técnico em Carpintaria;716305;Vidraceiro;0.1272
+Técnico em Carpintaria;374205;Cenotécnico (cinema, vídeo, televisão, teatro e espetáculos);0.1259
+Técnico em Carpintaria;716315;Vidraceiro (vitrais);0.1167
+Técnico em Carpintaria;773415;Operador de máquina de usinagem de madeira (produção em série);0.111
+Técnico em Carpintaria;374215;Maquinista de teatro e espetáculos;0.1096
+Técnico em Celulose e Papel;311110;Técnico de celulose e papel;0.2045
+Técnico em Celulose e Papel;830105;Mestre (indústria de celulose, papel e papelão);0.1828
+Técnico em Celulose e Papel;831105;Cilindreiro na preparação de pasta para fabricação de papel;0.1726
+Técnico em Celulose e Papel;831110;Operador de branqueador de pasta para fabricação de papel;0.1664
+Técnico em Celulose e Papel;831125;Operador de máquina de secar celulose;0.1477
+Técnico em Cenografia;262315;Cenógrafo de eventos;0.1677
+Técnico em Cenografia;262320;Cenógrafo de teatro;0.1674
+Técnico em Cenografia;262325;Cenógrafo de tv;0.1598
+Técnico em Cenografia;262310;Cenógrafo de cinema;0.1592
+Técnico em Cenografia;262330;Diretor de arte;0.1591
+Técnico em Cervejaria;311105;Técnico químico;0.1554
+Técnico em Cervejaria;810305;Mestre de produção farmacêutica;0.152
+Técnico em Cervejaria;325205;Técnico de alimentos;0.1435
+Técnico em Cervejaria;311115;Técnico em curtimento;0.1433
+Técnico em Cervejaria;311110;Técnico de celulose e papel;0.1401
+Técnico em Cerâmica;820205;Supervisor de fabricação de produtos cerâmicos, porcelanatos e afins;0.2103
+Técnico em Cerâmica;214605;Engenheiro de materiais;0.1845
+Técnico em Cerâmica;311305;Técnico em materiais, produtos cerâmicos e vidros;0.1769
+Técnico em Cerâmica;311410;Técnico em plástico;0.1711
+Técnico em Cerâmica;311405;Técnico em borracha;0.1704
+Técnico em Citopatologia;322255;Técnico em agente comunitário de saúde;0.1909
+Técnico em Citopatologia;221115;Biólogo em saúde;0.1611
+Técnico em Citopatologia;221110;Biólogo em meio ambiente e biodiversidade;0.1534
+Técnico em Citopatologia;226110;Osteopata;0.1521
+Técnico em Citopatologia;226105;Quiropraxista;0.1504
+Técnico em Composição e Arranjo;262605;Compositor;0.276
+Técnico em Composição e Arranjo;262610;Músico arranjador;0.271
+Técnico em Composição e Arranjo;262620;Musicólogo;0.2218
+Técnico em Composição e Arranjo;262615;Músico regente;0.2125
+Técnico em Composição e Arranjo;262705;Músico intérprete cantor;0.1726
+Técnico em Computação Gráfica;374405;Editor de mídia audiovisual;0.1705
+Técnico em Computação Gráfica;374415;Finalizador de vídeo;0.1396
+Técnico em Computação Gráfica;262410;Desenhista industrial gráfico (designer gráfico);0.1334
+Técnico em Computação Gráfica;374425;Diretor de imagens (tv);0.1221
+Técnico em Computação Gráfica;317105;Desenvolvedor web (técnico);0.122
+Técnico em Comunicações Aeronáuticas;342505;Controlador de tráfego aéreo;0.2528
+Técnico em Comunicações Aeronáuticas;215305;Piloto de aeronaves;0.2076
+Técnico em Comunicações Aeronáuticas;342530;Inspetor de aviação civil;0.1984
+Técnico em Comunicações Aeronáuticas;342515;Fiscal de aviação civil (fac);0.1965
+Técnico em Comunicações Aeronáuticas;215310;Piloto de ensaios em vôo;0.1904
+Técnico em Comunicações Navais;10315;Praça da marinha;0.3469
+Técnico em Comunicações Navais;10215;Oficial da marinha;0.183
+Técnico em Comunicações Navais;10115;Oficial general da marinha;0.1614
+Técnico em Comunicações Navais;341245;Técnico em sinais navais;0.1421
+Técnico em Comunicações Navais;724210;Montador de estruturas metálicas de embarcações;0.1245
+Técnico em Comércio;342105;Analista de transporte em comércio exterior;0.1523
+Técnico em Comércio;122405;Diretor de operações comerciais (comércio atacadista e varejista);0.1491
+Técnico em Comércio;342110;Operador de transporte multimodal;0.1315
+Técnico em Comércio;141410;Comerciante varejista;0.1309
+Técnico em Comércio;354705;Representante comercial autônomo;0.1286
+Técnico em Comércio Exterior;342205;Ajudante de despachante aduaneiro;0.2612
+Técnico em Comércio Exterior;342210;Despachante aduaneiro;0.2549
+Técnico em Comércio Exterior;342215;Analista de desembaraço aduaneiro;0.2312
+Técnico em Comércio Exterior;351310;Técnico em administração de comércio exterior;0.1902
+Técnico em Comércio Exterior;354305;Analista de exportação e importação;0.1885
+Técnico em Condomínio;114205;Dirigente de entidade de trabalhadores;0.1415
+Técnico em Condomínio;114210;Dirigente de entidade patronal;0.1349
+Técnico em Condomínio;30205;Capitão bombeiro militar;0.121
+Técnico em Condomínio;242910;Oficial técnico de inteligência;0.1171
+Técnico em Condomínio;111510;Analista de planejamento e orçamento - apo;0.114
+Técnico em Confeitaria;222130;Agroecólogo;0.1585
+Técnico em Confeitaria;222135;Tecnólogo em agroecologia;0.1579
+Técnico em Confeitaria;325105;Auxiliar técnico em laboratório de farmácia;0.1535
+Técnico em Confeitaria;325110;Técnico em laboratório de farmácia;0.1519
+Técnico em Confeitaria;325205;Técnico de alimentos;0.1502
+Técnico em Conservação e Restauro;262415;Conservador-restaurador de bens  culturais;0.2019
+Técnico em Conservação e Restauro;371210;Técnico em museologia;0.1701
+Técnico em Conservação e Restauro;262405;Artista (artes visuais);0.1671
+Técnico em Conservação e Restauro;262425;Desenhista industrial de produto de moda (designer de moda);0.1643
+Técnico em Conservação e Restauro;262420;Desenhista industrial de produto (designer de produto);0.1628
+Técnico em Construção Naval;314315;Técnico mecânico (embarcações);0.1301
+Técnico em Construção Naval;215220;Superintendente técnico no transporte aquaviário;0.1241
+Técnico em Construção Naval;214430;Engenheiro naval;0.1228
+Técnico em Construção Naval;215215;Segundo oficial de máquinas da marinha mercante;0.1222
+Técnico em Construção Naval;312105;Técnico de obras civis;0.1202
+Técnico em Contabilidade;413110;Auxiliar de contabilidade;0.2602
+Técnico em Contabilidade;252210;Contador;0.2578
+Técnico em Contabilidade;351105;Técnico de contabilidade;0.2428
+Técnico em Contabilidade;252205;Auditor (contadores e afins);0.1823
+Técnico em Contabilidade;254410;Fiscal de tributos municipal;0.1642
+Técnico em Controle Ambiental;221115;Biólogo em saúde;0.1909
+Técnico em Controle Ambiental;221110;Biólogo em meio ambiente e biodiversidade;0.1846
+Técnico em Controle Ambiental;221105;Biólogo;0.1757
+Técnico em Controle Ambiental;322255;Técnico em agente comunitário de saúde;0.1726
+Técnico em Controle Ambiental;215215;Segundo oficial de máquinas da marinha mercante;0.1384
+Técnico em Controle de Tráfego Aéreo;215305;Piloto de aeronaves;0.287
+Técnico em Controle de Tráfego Aéreo;215305;Piloto de aeronaves;0.287
+Técnico em Controle de Tráfego Aéreo;342505;Controlador de tráfego aéreo;0.2766
+Técnico em Controle de Tráfego Aéreo;342505;Controlador de tráfego aéreo;0.2766
+Técnico em Controle de Tráfego Aéreo;215315;Instrutor de vôo;0.2524
+Técnico em Controle de Tráfego Aéreo;215315;Instrutor de vôo;0.2524
+Técnico em Controle de Tráfego Aéreo;215310;Piloto de ensaios em vôo;0.2398
+Técnico em Controle de Tráfego Aéreo;215310;Piloto de ensaios em vôo;0.2398
+Técnico em Controle de Tráfego Aéreo;342555;Fiscal de pista de aeroporto;0.2089
+Técnico em Controle de Tráfego Aéreo;342555;Fiscal de pista de aeroporto;0.2089
+Técnico em Cooperativismo;351905;Agente de inteligência;0.1505
+Técnico em Cooperativismo;321205;Técnico em madeira;0.1219
+Técnico em Cooperativismo;261310;Museólogo;0.1116
+Técnico em Cooperativismo;321210;Técnico florestal;0.1071
+Técnico em Cooperativismo;222130;Agroecólogo;0.1068
+Técnico em Cuidados de Idosos;322255;Técnico em agente comunitário de saúde;0.2558
+Técnico em Cuidados de Idosos;516210;Cuidador de idosos;0.1931
+Técnico em Cuidados de Idosos;223915;Psicomotricista;0.1397
+Técnico em Cuidados de Idosos;223905;Terapeuta ocupacional;0.1385
+Técnico em Cuidados de Idosos;516220;Cuidador em saúde;0.136
+Técnico em Curtimento;311115;Técnico em curtimento;0.2461
+Técnico em Curtimento;762205;Curtidor (couros e peles);0.2151
+Técnico em Curtimento;762005;Trabalhador polivalente do curtimento de couros e peles;0.1657
+Técnico em Curtimento;311405;Técnico em borracha;0.1546
+Técnico em Curtimento;311410;Técnico em plástico;0.1532
+Técnico em Dança;376110;Dançarino popular;0.2744
+Técnico em Dança;376105;Dançarino tradicional;0.2616
+Técnico em Dança;262830;Professor de dança;0.2053
+Técnico em Dança;262810;Bailarino (exceto danças populares);0.1839
+Técnico em Dança;262825;Ensaiador de dança;0.1374
+Técnico em Defesa Civil;517130;Agente de proteção e defesa civil;0.2016
+Técnico em Defesa Civil;221110;Biólogo em meio ambiente e biodiversidade;0.1768
+Técnico em Defesa Civil;141830;Gerente de segurança operacional (aviação civil);0.1742
+Técnico em Defesa Civil;222130;Agroecólogo;0.16
+Técnico em Defesa Civil;114405;Dirigente e administrador de organização da sociedade civil sem fins lucrativos;0.1575
+Técnico em Dependência Química;322255;Técnico em agente comunitário de saúde;0.1585
+Técnico em Dependência Química;239410;Orientador educacional;0.1583
+Técnico em Dependência Química;239225;Professor de alunos com deficiência visual;0.1576
+Técnico em Dependência Química;131225;Sanitarista;0.1566
+Técnico em Dependência Química;223915;Psicomotricista;0.1516
+Técnico em Desenho Militar;10205;Oficial da aeronáutica;0.1889
+Técnico em Desenho Militar;10305;Praça da aeronáutica;0.1828
+Técnico em Desenho Militar;318510;Desenhista projetista de construção civil;0.1752
+Técnico em Desenho Militar;10105;Oficial general da aeronáutica;0.1738
+Técnico em Desenho Militar;318115;Desenhista técnico (construção civil);0.1729
+Técnico em Desenho de Construção Civil;312105;Técnico de obras civis;0.2565
+Técnico em Desenho de Construção Civil;318510;Desenhista projetista de construção civil;0.2422
+Técnico em Desenho de Construção Civil;318115;Desenhista técnico (construção civil);0.228
+Técnico em Desenho de Construção Civil;312210;Técnico de saneamento;0.1942
+Técnico em Desenho de Construção Civil;141305;Gerente de produção e operações da construção civil e obras públicas;0.1937
+Técnico em Desenvolvimento Comunitário;251110;Arqueólogo;0.1793
+Técnico em Desenvolvimento Comunitário;251605;Assistente social;0.1766
+Técnico em Desenvolvimento Comunitário;251105;Antropólogo;0.1738
+Técnico em Desenvolvimento Comunitário;251120;Sociólogo;0.1705
+Técnico em Desenvolvimento Comunitário;114305;Dirigente e administrador de organização religiosa;0.1636
+Técnico em Desenvolvimento de Sistemas;317110;Desenvolvedor de sistemas de tecnologia da informação (técnico);0.2505
+Técnico em Desenvolvimento de Sistemas;317120;Desenvolvedor de multimídia;0.2094
+Técnico em Desenvolvimento de Sistemas;317115;Programador de máquinas - ferramenta com comando numérico;0.1994
+Técnico em Desenvolvimento de Sistemas;317105;Desenvolvedor web (técnico);0.1992
+Técnico em Desenvolvimento de Sistemas;212405;Analista de desenvolvimento de sistemas;0.1882
+Técnico em Design Gráfico;262410;Desenhista industrial gráfico (designer gráfico);0.1376
+Técnico em Design Gráfico;318215;Desenhista técnico naval;0.1039
+Técnico em Design Gráfico;318210;Desenhista técnico aeronáutico;0.1017
+Técnico em Design Gráfico;318205;Desenhista técnico mecânico;0.1011
+Técnico em Design Gráfico;262420;Desenhista industrial de produto (designer de produto);0.1007
+Técnico em Design de Calçados;262425;Desenhista industrial de produto de moda (designer de moda);0.1347
+Técnico em Design de Calçados;318815;Modelista de calçados;0.1205
+Técnico em Design de Calçados;262420;Desenhista industrial de produto (designer de produto);0.1018
+Técnico em Design de Calçados;319105;Técnico em calçados e artefatos de couro;0.0999
+Técnico em Design de Calçados;318810;Modelista de roupas;0.0995
+Técnico em Design de Embalagens;262410;Desenhista industrial gráfico (designer gráfico);0.119
+Técnico em Design de Embalagens;262425;Desenhista industrial de produto de moda (designer de moda);0.1093
+Técnico em Design de Embalagens;262420;Desenhista industrial de produto (designer de produto);0.1078
+Técnico em Design de Embalagens;262405;Artista (artes visuais);0.0965
+Técnico em Design de Embalagens;262415;Conservador-restaurador de bens  culturais;0.0826
+Técnico em Design de Interiores;262905;Decorador de interiores de nível superior;0.1786
+Técnico em Design de Interiores;375105;Designer de interiores;0.137
+Técnico em Design de Interiores;318425;Desenhista técnico (mobiliário);0.1361
+Técnico em Design de Interiores;318415;Desenhista técnico (ilustrações técnicas);0.1307
+Técnico em Design de Interiores;318410;Desenhista técnico (ilustrações artísticas);0.1286
+Técnico em Design de Joias;751020;Lapidador (joias);0.1736
+Técnico em Design de Joias;751005;Engastador (jóias);0.171
+Técnico em Design de Joias;751015;Joalheiro (reparações);0.1624
+Técnico em Design de Joias;751010;Joalheiro;0.1558
+Técnico em Design de Joias;313130;Técnico eletricista;0.1019
+Técnico em Design de Moda;262425;Desenhista industrial de produto de moda (designer de moda);0.1434
+Técnico em Design de Moda;375125;Produtor de moda;0.1009
+Técnico em Design de Moda;222135;Tecnólogo em agroecologia;0.1005
+Técnico em Design de Moda;222130;Agroecólogo;0.0982
+Técnico em Design de Moda;222125;Tecnólogo em agronegócio;0.097
+Técnico em Design de Móveis;318805;Projetista de móveis;0.1425
+Técnico em Design de Móveis;318810;Modelista de roupas;0.127
+Técnico em Design de Móveis;262420;Desenhista industrial de produto (designer de produto);0.1183
+Técnico em Design de Móveis;319205;Técnico do mobiliário;0.1086
+Técnico em Design de Móveis;262425;Desenhista industrial de produto de moda (designer de moda);0.1071
+Técnico em Edificações;312105;Técnico de obras civis;0.2328
+Técnico em Edificações;214280;Tecnólogo em construção civil;0.1727
+Técnico em Edificações;717010;Operador de martelete;0.1701
+Técnico em Edificações;717020;Servente de obras;0.1625
+Técnico em Edificações;214115;Arquiteto de patrimônio;0.1583
+Técnico em Eletricidade e Instrumentos Aeronáuticos;731205;Montador de equipamentos eletrônicos (estação de rádio, tv e equipamentos de radar);0.1893
+Técnico em Eletricidade e Instrumentos Aeronáuticos;725605;Montador de estruturas de aeronaves;0.1655
+Técnico em Eletricidade e Instrumentos Aeronáuticos;214325;Engenheiro eletrônico de manutenção;0.1518
+Técnico em Eletricidade e Instrumentos Aeronáuticos;214330;Engenheiro eletrônico de projetos;0.151
+Técnico em Eletricidade e Instrumentos Aeronáuticos;214310;Engenheiro eletrônico;0.1506
+Técnico em Eletroeletrônica;951105;Eletricista de manutenção eletroeletrônica;0.1449
+Técnico em Eletroeletrônica;313110;Eletrotécnico (produção de energia);0.1443
+Técnico em Eletroeletrônica;313120;Técnico de manutenção elétrica;0.1402
+Técnico em Eletroeletrônica;313105;Eletrotécnico;0.1396
+Técnico em Eletroeletrônica;313130;Técnico eletricista;0.1387
+Técnico em Eletromecânica;300305;Técnico em eletromecânica;0.18
+Técnico em Eletromecânica;314105;Técnico em mecânica de precisão;0.1453
+Técnico em Eletromecânica;950110;Supervisor de manutenção eletromecânica industrial, comercial e predial;0.1428
+Técnico em Eletromecânica;318605;Desenhista projetista de máquinas;0.1362
+Técnico em Eletromecânica;318610;Desenhista projetista mecânico;0.1359
+Técnico em Eletrotécnica;313120;Técnico de manutenção elétrica;0.1535
+Técnico em Eletrotécnica;313125;Técnico de manutenção elétrica de máquina;0.1469
+Técnico em Eletrotécnica;313115;Eletrotécnico na fabricação, montagem e instalação de máquinas e equipamentos;0.1431
+Técnico em Eletrotécnica;313105;Eletrotécnico;0.1411
+Técnico em Eletrotécnica;312105;Técnico de obras civis;0.141
+Técnico em Eletrônica;313215;Técnico eletrônico;0.1637
+Técnico em Eletrônica;313205;Técnico de manutenção eletrônica;0.1411
+Técnico em Eletrônica;313220;Técnico em manutenção de equipamentos de informática;0.1364
+Técnico em Eletrônica;313210;Técnico de manutenção eletrônica (circuitos de máquinas com comando numérico);0.1167
+Técnico em Eletrônica;313110;Eletrotécnico (produção de energia);0.1134
+Técnico em Enfermagem;322255;Técnico em agente comunitário de saúde;0.2407
+Técnico em Enfermagem;223565;Enfermeiro da estratégia de saúde da família;0.2063
+Técnico em Enfermagem;322215;Técnico de enfermagem do trabalho;0.1924
+Técnico em Enfermagem;223575;Obstetriz;0.1846
+Técnico em Enfermagem;223580;Enfermeiro estomaterapeuta;0.1834
+Técnico em Equipamentos Biomédicos;214380;Engenheiro biomédico;0.2052
+Técnico em Equipamentos Biomédicos;915305;Técnico em manutenção de equipamentos e instrumentos odonto-médico-hospitalares;0.1674
+Técnico em Equipamentos Biomédicos;142710;Tecnólogo em sistemas biomédicos;0.1652
+Técnico em Equipamentos Biomédicos;214350;Engenheiro de redes de comunicação;0.15
+Técnico em Equipamentos Biomédicos;214335;Engenheiro de manutenção de telecomunicações;0.1497
+Técnico em Equipamentos de Voo;782730;Marinheiro auxiliar de convés (marítimo e aquaviario);0.1542
+Técnico em Equipamentos de Voo;215140;Oficial de quarto de navegação da marinha mercante;0.1451
+Técnico em Equipamentos de Voo;782715;Moço de convés (marítimo e fluviário);0.144
+Técnico em Equipamentos de Voo;215125;Imediato da marinha mercante;0.1437
+Técnico em Equipamentos de Voo;782705;Marinheiro de convés (marítimo e fluviário);0.1416
+Técnico em Estilismo e Coordenação de Moda;375125;Produtor de moda;0.1187
+Técnico em Estilismo e Coordenação de Moda;262425;Desenhista industrial de produto de moda (designer de moda);0.1142
+Técnico em Estilismo e Coordenação de Moda;253115;Publicitário;0.0955
+Técnico em Estilismo e Coordenação de Moda;221110;Biólogo em meio ambiente e biodiversidade;0.0939
+Técnico em Estilismo e Coordenação de Moda;375130;Profissional de organização (personal organizer);0.0925
+Técnico em Estradas;312105;Técnico de obras civis;0.189
+Técnico em Estradas;312205;Técnico de estradas;0.1683
+Técnico em Estradas;318510;Desenhista projetista de construção civil;0.1449
+Técnico em Estradas;141305;Gerente de produção e operações da construção civil e obras públicas;0.1411
+Técnico em Estradas;222105;Engenheiro agrícola;0.1375
+Técnico em Estrutura e Pintura de Aeronaves;314815;Inspetor de ensaios não destrutivos;0.1896
+Técnico em Estrutura e Pintura de Aeronaves;314815;Inspetor de ensaios não destrutivos;0.1896
+Técnico em Estrutura e Pintura de Aeronaves;314615;Técnico em estruturas metálicas;0.1757
+Técnico em Estrutura e Pintura de Aeronaves;314615;Técnico em estruturas metálicas;0.1757
+Técnico em Estrutura e Pintura de Aeronaves;725610;Montador de sistemas de combustível de aeronaves;0.1626
+Técnico em Estrutura e Pintura de Aeronaves;725610;Montador de sistemas de combustível de aeronaves;0.1626
+Técnico em Estrutura e Pintura de Aeronaves;314625;Tecnólogo em soldagem;0.1565
+Técnico em Estrutura e Pintura de Aeronaves;314625;Tecnólogo em soldagem;0.1565
+Técnico em Estrutura e Pintura de Aeronaves;724430;Chapeador de aeronaves;0.1553
+Técnico em Estrutura e Pintura de Aeronaves;724430;Chapeador de aeronaves;0.1553
+Técnico em Estética;322130;Esteticista;0.2248
+Técnico em Estética;322255;Técnico em agente comunitário de saúde;0.1689
+Técnico em Estética;516915;Body piercer;0.1504
+Técnico em Estética;516910;Micropigmentador;0.1487
+Técnico em Estética;516905;Tatuador;0.1477
+Técnico em Eventos;354820;Organizador de evento;0.1746
+Técnico em Eventos;354825;Cerimonialista;0.1604
+Técnico em Eventos;141520;Gerente de pensão;0.1306
+Técnico em Eventos;141515;Gerente de bar;0.1253
+Técnico em Eventos;141510;Gerente de restaurante;0.1253
+Técnico em Fabricação Mecânica;311405;Técnico em borracha;0.1644
+Técnico em Fabricação Mecânica;311410;Técnico em plástico;0.1625
+Técnico em Fabricação Mecânica;720125;Mestre de fundição;0.136
+Técnico em Fabricação Mecânica;314205;Técnico mecânico na fabricação de ferramentas;0.1326
+Técnico em Fabricação Mecânica;314625;Tecnólogo em soldagem;0.1325
+Técnico em Fabricação de Instrumentos Musicais;915210;Reparador de instrumentos musicais;0.201
+Técnico em Fabricação de Instrumentos Musicais;915205;Restaurador de instrumentos musicais (exceto cordas arcadas);0.2009
+Técnico em Fabricação de Instrumentos Musicais;915215;Luthier (restauração de cordas arcadas);0.1946
+Técnico em Fabricação de Instrumentos Musicais;742105;Afinador de instrumentos musicais;0.1814
+Técnico em Fabricação de Instrumentos Musicais;740110;Supervisor de fabricação de instrumentos musicais;0.1769
+Técnico em Farmácia;223430;Farmacêutico em saúde pública;0.2685
+Técnico em Farmácia;223405;Farmacêutico;0.2658
+Técnico em Farmácia;223445;Farmacêutico hospitalar e clínico;0.2494
+Técnico em Farmácia;223425;Farmacêutico práticas integrativas e complementares;0.2469
+Técnico em Farmácia;223435;Farmacêutico industrial;0.2406
+Técnico em Ferramentaria;821405;Encarregado de acabamento de chapas e metais  (têmpera);0.1353
+Técnico em Ferramentaria;311110;Técnico de celulose e papel;0.1335
+Técnico em Ferramentaria;311105;Técnico químico;0.1284
+Técnico em Ferramentaria;760405;Supervisor  (indústria de calçados e artefatos de couro);0.1277
+Técnico em Ferramentaria;311115;Técnico em curtimento;0.1271
+Técnico em Figurino Cênico;376110;Dançarino popular;0.1793
+Técnico em Figurino Cênico;262505;Ator;0.1394
+Técnico em Figurino Cênico;261905;Continuista;0.1358
+Técnico em Figurino Cênico;376105;Dançarino tradicional;0.1258
+Técnico em Figurino Cênico;262815;Coreógrafo;0.1208
+Técnico em Finanças;123115;Diretor financeiro;0.2382
+Técnico em Finanças;123110;Diretor administrativo e financeiro;0.1772
+Técnico em Finanças;351105;Técnico de contabilidade;0.1744
+Técnico em Finanças;142115;Gerente financeiro;0.1636
+Técnico em Finanças;410235;Supervisor de tesouraria;0.1604
+Técnico em Florestas;321210;Técnico florestal;0.3218
+Técnico em Florestas;222120;Engenheiro florestal;0.2566
+Técnico em Florestas;222130;Agroecólogo;0.2564
+Técnico em Florestas;321205;Técnico em madeira;0.2463
+Técnico em Florestas;222135;Tecnólogo em agroecologia;0.2299
+Técnico em Fotointeligência;781310;Operador de aeronaves não tripuladas;0.2694
+Técnico em Fotointeligência;251305;Geógrafo;0.1852
+Técnico em Fotointeligência;781305;Operador de veículos subaquáticos controlados remotamente;0.1596
+Técnico em Fotointeligência;341105;Piloto comercial (exceto linhas aéreas);0.1429
+Técnico em Fotointeligência;214805;Engenheiro agrimensor;0.1417
+Técnico em Fruticultura;222130;Agroecólogo;0.2745
+Técnico em Fruticultura;321105;Técnico agrícola;0.2697
+Técnico em Fruticultura;321110;Técnico agropecuário;0.2678
+Técnico em Fruticultura;222135;Tecnólogo em agroecologia;0.2676
+Técnico em Fruticultura;622505;Trabalhador no cultivo de árvores frutíferas;0.2375
+Técnico em Fundição;722320;Moldador em fundição, a máquina;0.1717
+Técnico em Fundição;722325;Operador de equipamentos de preparação de areia;0.1527
+Técnico em Fundição;751110;Fundidor (joalheria e ourivesaria);0.1511
+Técnico em Fundição;720125;Mestre de fundição;0.1444
+Técnico em Fundição;821220;Forneiro e operador (refino de metais não-ferrosos);0.1407
+Técnico em Gastronomia;513220;Cozinheiro de hospital;0.2303
+Técnico em Gastronomia;513225;Cozinheiro de embarcações;0.2256
+Técnico em Gastronomia;271105;Chefe de cozinha;0.1957
+Técnico em Gastronomia;513205;Cozinheiro geral;0.1938
+Técnico em Gastronomia;513210;Cozinheiro do serviço doméstico;0.1845
+Técnico em Geodésia e Cartografia;214805;Engenheiro agrimensor;0.2223
+Técnico em Geodésia e Cartografia;214810;Engenheiro cartógrafo;0.2212
+Técnico em Geodésia e Cartografia;251305;Geógrafo;0.1864
+Técnico em Geodésia e Cartografia;312310;Técnico em geodésia e cartografia;0.1595
+Técnico em Geodésia e Cartografia;312315;Técnico em hidrografia;0.1573
+Técnico em Geologia;316305;Técnico de mineração;0.1845
+Técnico em Geologia;213405;Geólogo;0.1709
+Técnico em Geologia;316110;Técnico em geologia;0.1705
+Técnico em Geologia;213425;Hidrogeólogo;0.1685
+Técnico em Geologia;213440;Oceanógrafo;0.1669
+Técnico em Geoprocessamento;214805;Engenheiro agrimensor;0.2322
+Técnico em Geoprocessamento;214810;Engenheiro cartógrafo;0.2311
+Técnico em Geoprocessamento;312320;Topógrafo;0.2115
+Técnico em Geoprocessamento;312305;Técnico em agrimensura;0.2103
+Técnico em Geoprocessamento;251305;Geógrafo;0.1954
+Técnico em Gerência em Saúde;322255;Técnico em agente comunitário de saúde;0.2227
+Técnico em Gerência em Saúde;131225;Sanitarista;0.2109
+Técnico em Gerência em Saúde;131205;Diretor de serviços de saúde;0.1928
+Técnico em Gerência em Saúde;131210;Gerente de serviços de saúde;0.1852
+Técnico em Gerência em Saúde;131215;Tecnólogo em gestão hospitalar;0.1778
+Técnico em Guarda e Segurança;10205;Oficial da aeronáutica;0.2247
+Técnico em Guarda e Segurança;10305;Praça da aeronáutica;0.2174
+Técnico em Guarda e Segurança;10105;Oficial general da aeronáutica;0.2067
+Técnico em Guarda e Segurança;20305;Primeiro tenente de polícia militar;0.1505
+Técnico em Guarda e Segurança;20310;Segundo tenente de polícia militar;0.1505
+Técnico em Guia de Turismo;511405;Guia de turismo;0.3023
+Técnico em Guia de Turismo;354810;Operador de turismo;0.301
+Técnico em Guia de Turismo;354805;Técnico em turismo;0.2704
+Técnico em Guia de Turismo;354815;Agente de viagem;0.2628
+Técnico em Guia de Turismo;122520;Turismólogo;0.2393
+Técnico em Hemoterapia;324220;Técnico em hemoterapia;0.1787
+Técnico em Hemoterapia;221205;Biomédico;0.1592
+Técnico em Hemoterapia;221115;Biólogo em saúde;0.1544
+Técnico em Hemoterapia;322255;Técnico em agente comunitário de saúde;0.1474
+Técnico em Hemoterapia;221105;Biólogo;0.1446
+Técnico em Hidrografia;312315;Técnico em hidrografia;0.3358
+Técnico em Hidrografia;213415;Geofísico;0.1688
+Técnico em Hidrografia;213430;Paleontólogo;0.1659
+Técnico em Hidrografia;213440;Oceanógrafo;0.1611
+Técnico em Hidrografia;316110;Técnico em geologia;0.1602
+Técnico em Hidrologia;214805;Engenheiro agrimensor;0.2051
+Técnico em Hidrologia;214810;Engenheiro cartógrafo;0.2041
+Técnico em Hidrologia;316110;Técnico em geologia;0.1733
+Técnico em Hidrologia;312315;Técnico em hidrografia;0.1701
+Técnico em Hidrologia;316305;Técnico de mineração;0.1682
+Técnico em Hospedagem;422130;Concierge;0.2147
+Técnico em Hospedagem;141505;Gerente de hotel;0.198
+Técnico em Hospedagem;354815;Agente de viagem;0.1839
+Técnico em Hospedagem;354810;Operador de turismo;0.1834
+Técnico em Hospedagem;422120;Recepcionista de hotel;0.1591
+Técnico em Imagem Pessoal;253410;Influenciador digital;0.1217
+Técnico em Imagem Pessoal;253405;Analista de mídias sociais;0.1071
+Técnico em Imagem Pessoal;242910;Oficial técnico de inteligência;0.1052
+Técnico em Imagem Pessoal;223915;Psicomotricista;0.0997
+Técnico em Imagem Pessoal;324140;Dosimetrista clínico;0.0966
+Técnico em Imobilizações Ortopédicas;322605;Técnico de imobilização ortopédica;0.3554
+Técnico em Imobilizações Ortopédicas;322505;Técnico de ortopedia;0.1628
+Técnico em Imobilizações Ortopédicas;322255;Técnico em agente comunitário de saúde;0.1344
+Técnico em Imobilizações Ortopédicas;223635;Fisioterapeuta traumato-ortopédica funcional;0.1089
+Técnico em Imobilizações Ortopédicas;782320;Condutor de ambulância;0.1052
+Técnico em Informações Aeronáuticas;342530;Inspetor de aviação civil;0.2075
+Técnico em Informações Aeronáuticas;342515;Fiscal de aviação civil (fac);0.1997
+Técnico em Informações Aeronáuticas;342505;Controlador de tráfego aéreo;0.1837
+Técnico em Informações Aeronáuticas;342510;Despachante operacional de vôo;0.1735
+Técnico em Informações Aeronáuticas;215305;Piloto de aeronaves;0.1563
+Técnico em Informática;212310;Administrador de redes;0.3142
+Técnico em Informática;212315;Administrador de sistemas operacionais;0.3122
+Técnico em Informática;317205;Operador de computador;0.2531
+Técnico em Informática;212305;Administrador de banco de dados;0.2438
+Técnico em Informática;317210;Técnico de suporte ao usuário de tecnologia da informação;0.2221
+Técnico em Informática para Internet;317105;Desenvolvedor web (técnico);0.2347
+Técnico em Informática para Internet;317115;Programador de máquinas - ferramenta com comando numérico;0.1397
+Técnico em Informática para Internet;317110;Desenvolvedor de sistemas de tecnologia da informação (técnico);0.1293
+Técnico em Informática para Internet;317120;Desenvolvedor de multimídia;0.1268
+Técnico em Informática para Internet;318610;Desenhista projetista mecânico;0.1107
+Técnico em Infraestrutura Escolar;239405;Coordenador pedagógico;0.1464
+Técnico em Infraestrutura Escolar;239410;Orientador educacional;0.1413
+Técnico em Infraestrutura Escolar;239425;Psicopedagogo;0.1333
+Técnico em Infraestrutura Escolar;239430;Supervisor de ensino;0.1324
+Técnico em Infraestrutura Escolar;233215;Instrutor de aprendizagem e treinamento comercial;0.1193
+Técnico em Instrumentação Industrial;313410;Técnico em instrumentação;0.1978
+Técnico em Instrumentação Industrial;311410;Técnico em plástico;0.1305
+Técnico em Instrumentação Industrial;214380;Engenheiro biomédico;0.1296
+Técnico em Instrumentação Industrial;311405;Técnico em borracha;0.1249
+Técnico em Instrumentação Industrial;202110;Engenheiro de controle e automação;0.123
+Técnico em Instrumento Musical;262620;Musicólogo;0.1679
+Técnico em Instrumento Musical;262610;Músico arranjador;0.1623
+Técnico em Instrumento Musical;262705;Músico intérprete cantor;0.1607
+Técnico em Instrumento Musical;262710;Músico intérprete instrumentista;0.16
+Técnico em Instrumento Musical;262605;Compositor;0.1578
+Técnico em Joalheria;751015;Joalheiro (reparações);0.1772
+Técnico em Joalheria;751010;Joalheiro;0.1752
+Técnico em Joalheria;751005;Engastador (jóias);0.174
+Técnico em Joalheria;751020;Lapidador (joias);0.1639
+Técnico em Joalheria;311405;Técnico em borracha;0.1367
+Técnico em Laboratório de Ciências da Natureza;301115;Técnico químico de petróleo;0.1438
+Técnico em Laboratório de Ciências da Natureza;233130;Professor de técnicas industriais;0.1432
+Técnico em Laboratório de Ciências da Natureza;233125;Professor de técnicas de enfermagem;0.1432
+Técnico em Laboratório de Ciências da Natureza;233115;Professor de técnicas agrícolas;0.143
+Técnico em Laboratório de Ciências da Natureza;233110;Professor de desenho técnico;0.1424
+Técnico em Lazer;371410;Recreador;0.2019
+Técnico em Lazer;371405;Recreador de acantonamento;0.1738
+Técnico em Lazer;141520;Gerente de pensão;0.1362
+Técnico em Lazer;371415;Brinquedista;0.1331
+Técnico em Lazer;141515;Gerente de bar;0.13
+Técnico em Logística;222125;Tecnólogo em agronegócio;0.1303
+Técnico em Logística;222135;Tecnólogo em agroecologia;0.1253
+Técnico em Logística;123405;Diretor de suprimentos;0.1245
+Técnico em Logística;123410;Diretor de suprimentos no serviço público;0.1181
+Técnico em Logística;740105;Supervisor da mecânica de precisão;0.1162
+Técnico em Manobras e Equipamentos de Convés;782730;Marinheiro auxiliar de convés (marítimo e aquaviario);0.2647
+Técnico em Manobras e Equipamentos de Convés;782705;Marinheiro de convés (marítimo e fluviário);0.2607
+Técnico em Manobras e Equipamentos de Convés;782715;Moço de convés (marítimo e fluviário);0.2525
+Técnico em Manobras e Equipamentos de Convés;341240;Técnicos em manobras em equipamentos de convés;0.2316
+Técnico em Manobras e Equipamentos de Convés;341320;Condutor de máquinas (bombeador);0.222
+Técnico em Manutenção Aeronáutica em Aviônicos;725605;Montador de estruturas de aeronaves;0.1461
+Técnico em Manutenção Aeronáutica em Aviônicos;314310;Técnico mecânico (aeronaves);0.1405
+Técnico em Manutenção Aeronáutica em Aviônicos;313205;Técnico de manutenção eletrônica;0.1354
+Técnico em Manutenção Aeronáutica em Aviônicos;215315;Instrutor de vôo;0.1318
+Técnico em Manutenção Aeronáutica em Aviônicos;342515;Fiscal de aviação civil (fac);0.1317
+Técnico em Manutenção Aeronáutica em Célula;725605;Montador de estruturas de aeronaves;0.185
+Técnico em Manutenção Aeronáutica em Célula;725610;Montador de sistemas de combustível de aeronaves;0.1554
+Técnico em Manutenção Aeronáutica em Célula;314310;Técnico mecânico (aeronaves);0.1547
+Técnico em Manutenção Aeronáutica em Célula;318210;Desenhista técnico aeronáutico;0.1398
+Técnico em Manutenção Aeronáutica em Célula;314405;Técnico de manutenção de sistemas e instrumentos;0.1365
+Técnico em Manutenção Aeronáutica em Grupo Motopropulsor;725605;Montador de estruturas de aeronaves;0.1922
+Técnico em Manutenção Aeronáutica em Grupo Motopropulsor;10205;Oficial da aeronáutica;0.1666
+Técnico em Manutenção Aeronáutica em Grupo Motopropulsor;10305;Praça da aeronáutica;0.1612
+Técnico em Manutenção Aeronáutica em Grupo Motopropulsor;314310;Técnico mecânico (aeronaves);0.1596
+Técnico em Manutenção Aeronáutica em Grupo Motopropulsor;725610;Montador de sistemas de combustível de aeronaves;0.1563
+Técnico em Manutenção Automotiva;911120;Mecânico de manutenção de motores diesel (exceto de veículos automotores);0.1753
+Técnico em Manutenção Automotiva;314305;Técnico em automobilística;0.1708
+Técnico em Manutenção Automotiva;914425;Mecânico de veículos automotores a diesel (exceto tratores);0.1586
+Técnico em Manutenção Automotiva;314310;Técnico mecânico (aeronaves);0.1533
+Técnico em Manutenção Automotiva;914405;Mecânico de manutenção de automóveis e veículos similares;0.1501
+Técnico em Manutenção de Máquinas Industriais;911305;Mecânico de manutenção de máquinas, em geral;0.1844
+Técnico em Manutenção de Máquinas Industriais;910105;Encarregado de manutenção mecânica de sistemas operacionais;0.1706
+Técnico em Manutenção de Máquinas Industriais;300105;Técnico em mecatrônica - automação da manufatura;0.1681
+Técnico em Manutenção de Máquinas Industriais;300110;Técnico em mecatrônica - robótica;0.1621
+Técnico em Manutenção de Máquinas Industriais;910125;Supervisor de manutenção de máquinas industriais têxteis;0.1462
+Técnico em Manutenção de Máquinas Navais;724210;Montador de estruturas metálicas de embarcações;0.1449
+Técnico em Manutenção de Máquinas Navais;914205;Mecânico de manutenção de motores e equipamentos navais;0.1382
+Técnico em Manutenção de Máquinas Navais;314410;Técnico em manutenção de máquinas;0.1273
+Técnico em Manutenção de Máquinas Navais;911130;Mecânico de manutenção de turbinas (exceto de aeronaves);0.1209
+Técnico em Manutenção de Máquinas Navais;910105;Encarregado de manutenção mecânica de sistemas operacionais;0.1176
+Técnico em Manutenção de Máquinas Pesadas;314410;Técnico em manutenção de máquinas;0.1524
+Técnico em Manutenção de Máquinas Pesadas;314405;Técnico de manutenção de sistemas e instrumentos;0.1382
+Técnico em Manutenção de Máquinas Pesadas;123805;Diretor de manutenção;0.1331
+Técnico em Manutenção de Máquinas Pesadas;142710;Tecnólogo em sistemas biomédicos;0.1179
+Técnico em Manutenção de Máquinas Pesadas;300305;Técnico em eletromecânica;0.1152
+Técnico em Manutenção de Sistemas Metroferroviários;914305;Mecânico de manutenção de veículos ferroviários;0.1729
+Técnico em Manutenção de Sistemas Metroferroviários;313205;Técnico de manutenção eletrônica;0.1556
+Técnico em Manutenção de Sistemas Metroferroviários;300105;Técnico em mecatrônica - automação da manufatura;0.1504
+Técnico em Manutenção de Sistemas Metroferroviários;314405;Técnico de manutenção de sistemas e instrumentos;0.1492
+Técnico em Manutenção de Sistemas Metroferroviários;300110;Técnico em mecatrônica - robótica;0.1459
+Técnico em Manutenção e Suporte em Informática;317210;Técnico de suporte ao usuário de tecnologia da informação;0.2666
+Técnico em Manutenção e Suporte em Informática;317205;Operador de computador;0.265
+Técnico em Manutenção e Suporte em Informática;212315;Administrador de sistemas operacionais;0.2338
+Técnico em Manutenção e Suporte em Informática;212310;Administrador de redes;0.231
+Técnico em Manutenção e Suporte em Informática;212215;Engenheiros de sistemas operacionais em computação;0.2136
+Técnico em Marketing;123310;Diretor de marketing;0.1602
+Técnico em Marketing;123305;Diretor comercial;0.1576
+Técnico em Marketing;122520;Turismólogo;0.1485
+Técnico em Marketing;354150;Propagandista de produtos famacêuticos;0.1419
+Técnico em Marketing;354705;Representante comercial autônomo;0.1395
+Técnico em Massoterapia;322255;Técnico em agente comunitário de saúde;0.1484
+Técnico em Massoterapia;226110;Osteopata;0.1341
+Técnico em Massoterapia;226105;Quiropraxista;0.1244
+Técnico em Massoterapia;226320;Naturólogo;0.1065
+Técnico em Massoterapia;223575;Obstetriz;0.1012
+Técnico em Material Bélico;341110;Piloto comercial de helicóptero (exceto linhas aéreas);0.1669
+Técnico em Material Bélico;341110;Piloto comercial de helicóptero (exceto linhas aéreas);0.1669
+Técnico em Material Bélico;341115;Mecânico de vôo;0.1653
+Técnico em Material Bélico;341115;Mecânico de vôo;0.1653
+Técnico em Material Bélico;341120;Piloto agrícola;0.1579
+Técnico em Material Bélico;341120;Piloto agrícola;0.1579
+Técnico em Material Bélico;341105;Piloto comercial (exceto linhas aéreas);0.154
+Técnico em Material Bélico;341105;Piloto comercial (exceto linhas aéreas);0.154
+Técnico em Material Bélico;725610;Montador de sistemas de combustível de aeronaves;0.1486
+Técnico em Material Bélico;725610;Montador de sistemas de combustível de aeronaves;0.1486
+Técnico em Mecatrônica;300105;Técnico em mecatrônica - automação da manufatura;0.16
+Técnico em Mecatrônica;300110;Técnico em mecatrônica - robótica;0.1564
+Técnico em Mecatrônica;313505;Técnico em fotônica;0.1257
+Técnico em Mecatrônica;318710;Desenhista projetista eletrônico;0.1178
+Técnico em Mecatrônica;318705;Desenhista projetista de eletricidade;0.1165
+Técnico em Mecânica;314105;Técnico em mecânica de precisão;0.1736
+Técnico em Mecânica;318605;Desenhista projetista de máquinas;0.1632
+Técnico em Mecânica;314110;Técnico mecânico;0.1566
+Técnico em Mecânica;318610;Desenhista projetista mecânico;0.1542
+Técnico em Mecânica;314120;Técnico mecânico (máquinas);0.1532
+Técnico em Mecânica de Aeronaves ;914105;Mecânico de manutenção de aeronaves, em geral;0.2147
+Técnico em Mecânica de Aeronaves ;725605;Montador de estruturas de aeronaves;0.2051
+Técnico em Mecânica de Aeronaves ;215305;Piloto de aeronaves;0.2046
+Técnico em Mecânica de Aeronaves ;914110;Mecânico de manutenção de sistema hidráulico de aeronaves (serviços de pista e hangar);0.1905
+Técnico em Mecânica de Aeronaves ;215315;Instrutor de vôo;0.1883
+Técnico em Mecânica de Precisão;314105;Técnico em mecânica de precisão;0.1626
+Técnico em Mecânica de Precisão;740105;Supervisor da mecânica de precisão;0.1503
+Técnico em Mecânica de Precisão;725205;Montador de máquinas;0.1415
+Técnico em Mecânica de Precisão;725210;Montador de máquinas gráficas;0.1393
+Técnico em Mecânica de Precisão;725215;Montador de máquinas operatrizes para madeira;0.1393
+Técnico em Meio Ambiente;221110;Biólogo em meio ambiente e biodiversidade;0.2425
+Técnico em Meio Ambiente;221105;Biólogo;0.2038
+Técnico em Meio Ambiente;221115;Biólogo em saúde;0.2002
+Técnico em Meio Ambiente;322255;Técnico em agente comunitário de saúde;0.1869
+Técnico em Meio Ambiente;222130;Agroecólogo;0.1865
+Técnico em Mergulho;781705;Mergulhador profissional (raso e profundo);0.181
+Técnico em Mergulho;781305;Operador de veículos subaquáticos controlados remotamente;0.1285
+Técnico em Mergulho;782705;Marinheiro de convés (marítimo e fluviário);0.1235
+Técnico em Mergulho;782725;Marinheiro de esporte e recreio;0.1107
+Técnico em Mergulho;215115;Comandante da marinha mercante;0.1086
+Técnico em Metalurgia;822125;Forneiro de revérbero;0.1192
+Técnico em Metalurgia;313505;Técnico em fotônica;0.1186
+Técnico em Metalurgia;314615;Técnico em estruturas metálicas;0.1118
+Técnico em Metalurgia;314620;Técnico em soldagem;0.1103
+Técnico em Metalurgia;314610;Técnico em caldeiraria;0.1087
+Técnico em Meteorologia;213315;Meteorologista;0.1715
+Técnico em Meteorologia;211210;Estatístico (estatística aplicada);0.1591
+Técnico em Meteorologia;211205;Estatístico;0.1573
+Técnico em Meteorologia;415310;Analista de informação em saúde;0.1465
+Técnico em Meteorologia;351910;Agente técnico de inteligência;0.1436
+Técnico em Metrologia;313505;Técnico em fotônica;0.1783
+Técnico em Metrologia;313405;Técnico em calibração;0.1741
+Técnico em Metrologia;313410;Técnico em instrumentação;0.1705
+Técnico em Metrologia;915105;Técnico em manutenção de instrumentos de medição e precisão;0.1552
+Técnico em Metrologia;201210;Especialista em calibrações metrológicas;0.1547
+Técnico em Mineração;316305;Técnico de mineração;0.2864
+Técnico em Mineração;316310;Técnico de mineração (óleo e petróleo);0.2493
+Técnico em Mineração;316330;Técnico em planejamento de lavra de minas;0.2165
+Técnico em Mineração;316320;Técnico em pesquisa mineral;0.2105
+Técnico em Mineração;710120;Supervisor de produção na mineração;0.2084
+Técnico em Modelagem do Vestuário;763315;Marcador de peças confeccionadas para bordar;0.1608
+Técnico em Modelagem do Vestuário;763210;Costureiro na confecção em série;0.1554
+Técnico em Modelagem do Vestuário;763215;Costureiro, a  máquina  na confecção em série;0.1509
+Técnico em Modelagem do Vestuário;763205;Costureiro de roupas de couro e pele, a  máquina na  confecção em série;0.1494
+Técnico em Modelagem do Vestuário;319110;Técnico em confecções do vestuário;0.1323
+Técnico em Multimeios Didáticos;234520;Professor de ensino superior na área de prática de ensino;0.2262
+Técnico em Multimeios Didáticos;234515;Professor de ensino superior na área de pesquisa educacional;0.2184
+Técnico em Multimeios Didáticos;231315;Professor de educação física do ensino fundamental;0.2139
+Técnico em Multimeios Didáticos;234510;Professor de ensino superior na área de orientação educacional;0.2124
+Técnico em Multimeios Didáticos;231330;Professor de língua estrangeira moderna do ensino fundamental;0.2104
+Técnico em Multimídia;317105;Desenvolvedor web (técnico);0.1305
+Técnico em Multimídia;262410;Desenhista industrial gráfico (designer gráfico);0.1131
+Técnico em Multimídia;262605;Compositor;0.1014
+Técnico em Multimídia;317120;Desenvolvedor de multimídia;0.0947
+Técnico em Multimídia;253410;Influenciador digital;0.0879
+Técnico em Museologia;261310;Museólogo;0.1686
+Técnico em Museologia;371110;Técnico em biblioteconomia;0.1664
+Técnico em Museologia;261305;Arquivista;0.1635
+Técnico em Museologia;371210;Técnico em museologia;0.1605
+Técnico em Museologia;371205;Colecionador de selos e moedas;0.1393
+Técnico em Móveis;319205;Técnico do mobiliário;0.1966
+Técnico em Móveis;760120;Contramestre de tecelagem (indústria têxtil);0.1328
+Técnico em Móveis;311105;Técnico químico;0.1303
+Técnico em Móveis;760115;Contramestre de malharia (indústria têxtil);0.13
+Técnico em Móveis;760110;Contramestre de fiação (indústria têxtil);0.1285
+Técnico em Necropsia;328105;Embalsamador;0.1394
+Técnico em Necropsia;515105;Agente comunitário de saúde;0.1183
+Técnico em Necropsia;223575;Obstetriz;0.1134
+Técnico em Necropsia;328110;Taxidermista;0.1113
+Técnico em Necropsia;223585;Enfermeiro forense;0.1112
+Técnico em Nutrição e Dietética;223710;Nutricionista;0.2343
+Técnico em Nutrição e Dietética;223705;Dietista;0.2214
+Técnico em Nutrição e Dietética;325210;Técnico em nutrição e dietética;0.2104
+Técnico em Nutrição e Dietética;322255;Técnico em agente comunitário de saúde;0.1633
+Técnico em Nutrição e Dietética;325205;Técnico de alimentos;0.1346
+Técnico em Operação de Radar;341235;Técnico em sinalização náutica;0.251
+Técnico em Operação de Radar;312315;Técnico em hidrografia;0.1942
+Técnico em Operação de Radar;341245;Técnico em sinais navais;0.1869
+Técnico em Operação de Radar;341220;Patrão de pesca de alto-mar;0.1522
+Técnico em Operação de Radar;341225;Patrão de pesca na navegação interior;0.1462
+Técnico em Operação de Sonar;242910;Oficial técnico de inteligência;0.1595
+Técnico em Operação de Sonar;215215;Segundo oficial de máquinas da marinha mercante;0.1417
+Técnico em Operação de Sonar;215210;Primeiro oficial de máquinas da marinha mercante;0.141
+Técnico em Operação de Sonar;215220;Superintendente técnico no transporte aquaviário;0.1386
+Técnico em Operação de Sonar;351910;Agente técnico de inteligência;0.1299
+Técnico em Operações de Engenharia Militar;312205;Técnico de estradas;0.1464
+Técnico em Operações de Engenharia Militar;30205;Capitão bombeiro militar;0.1239
+Técnico em Operações de Engenharia Militar;20305;Primeiro tenente de polícia militar;0.1231
+Técnico em Operações de Engenharia Militar;20310;Segundo tenente de polícia militar;0.1231
+Técnico em Operações de Engenharia Militar;214540;Engenheiro têxtil;0.1184
+Técnico em Optometria;322305;Técnico em óptica e optometria;0.2004
+Técnico em Optometria;322255;Técnico em agente comunitário de saúde;0.1416
+Técnico em Optometria;324125;Tecnólogo oftálmico;0.1161
+Técnico em Optometria;226110;Osteopata;0.1057
+Técnico em Optometria;221115;Biólogo em saúde;0.1024
+Técnico em Paisagismo;262905;Decorador de interiores de nível superior;0.1319
+Técnico em Paisagismo;622010;Jardineiro;0.1212
+Técnico em Paisagismo;251305;Geógrafo;0.1051
+Técnico em Paisagismo;221110;Biólogo em meio ambiente e biodiversidade;0.1042
+Técnico em Paisagismo;214110;Arquiteto de interiores;0.1015
+Técnico em Panificação;222130;Agroecólogo;0.158
+Técnico em Panificação;222135;Tecnólogo em agroecologia;0.1567
+Técnico em Panificação;325205;Técnico de alimentos;0.1551
+Técnico em Panificação;325105;Auxiliar técnico em laboratório de farmácia;0.1521
+Técnico em Panificação;325110;Técnico em laboratório de farmácia;0.1504
+Técnico em Pesca;222130;Agroecólogo;0.2251
+Técnico em Pesca;631105;Pescador artesanal de água doce;0.2221
+Técnico em Pesca;222135;Tecnólogo em agroecologia;0.2147
+Técnico em Pesca;222125;Tecnólogo em agronegócio;0.2017
+Técnico em Pesca;141120;Gerente de produção e operações pesqueiras;0.1971
+Técnico em Petroquímica;311105;Técnico químico;0.2164
+Técnico em Petroquímica;311115;Técnico em curtimento;0.1701
+Técnico em Petroquímica;311110;Técnico de celulose e papel;0.1658
+Técnico em Petroquímica;301115;Técnico químico de petróleo;0.1589
+Técnico em Petroquímica;325205;Técnico de alimentos;0.1521
+Técnico em Petróleo e Gás;311105;Técnico químico;0.201
+Técnico em Petróleo e Gás;311110;Técnico de celulose e papel;0.1648
+Técnico em Petróleo e Gás;214610;Engenheiro metalurgista;0.1642
+Técnico em Petróleo e Gás;214605;Engenheiro de materiais;0.1636
+Técnico em Petróleo e Gás;325205;Técnico de alimentos;0.1626
+Técnico em Planejamento e Controle da Produção;760605;Supervisor das artes gráficas (indústria editorial e gráfica);0.1843
+Técnico em Planejamento e Controle da Produção;391125;Técnico de planejamento de produção;0.1637
+Técnico em Planejamento e Controle da Produção;730105;Supervisor de montagem e instalação eletroeletrônica;0.1546
+Técnico em Planejamento e Controle da Produção;760125;Mestre (indústria têxtil e de confecções);0.1494
+Técnico em Planejamento e Controle da Produção;840105;Supervisor de produção da indústria alimentícia;0.1472
+Técnico em Plásticos;820205;Supervisor de fabricação de produtos cerâmicos, porcelanatos e afins;0.1914
+Técnico em Plásticos;311410;Técnico em plástico;0.1859
+Técnico em Plásticos;820210;Supervisor de fabricação de produtos de vidro;0.1845
+Técnico em Plásticos;311405;Técnico em borracha;0.1613
+Técnico em Plásticos;311105;Técnico químico;0.1595
+Técnico em Podologia;322255;Técnico em agente comunitário de saúde;0.1796
+Técnico em Podologia;516145;Designer de unhas;0.1298
+Técnico em Podologia;223580;Enfermeiro estomaterapeuta;0.128
+Técnico em Podologia;516120;Manicure/pedicure;0.113
+Técnico em Podologia;223585;Enfermeiro forense;0.1002
+Técnico em Portos;342125;Tecnólogo em logística de transporte;0.2839
+Técnico em Portos;342110;Operador de transporte multimodal;0.2678
+Técnico em Portos;342105;Analista de transporte em comércio exterior;0.2578
+Técnico em Portos;342115;Controlador de serviços de máquinas e veículos;0.2394
+Técnico em Portos;342120;Afretador;0.2114
+Técnico em Preparação Física e Desportiva Militar;224135;Treinador profissional de futebol;0.3333
+Técnico em Preparação Física e Desportiva Militar;224125;Técnico de desporto individual e coletivo (exceto futebol);0.3154
+Técnico em Preparação Física e Desportiva Militar;224105;Avaliador físico;0.2852
+Técnico em Preparação Física e Desportiva Militar;224115;Preparador de atleta;0.2814
+Técnico em Preparação Física e Desportiva Militar;224110;Ludomotricista;0.2813
+Técnico em Prevenção e Combate a Incêndio;31110;Sargento bombeiro militar;0.1776
+Técnico em Prevenção e Combate a Incêndio;31105;Subtenente bombeiro militar;0.1732
+Técnico em Prevenção e Combate a Incêndio;30205;Capitão bombeiro militar;0.1587
+Técnico em Prevenção e Combate a Incêndio;517110;Bombeiro civil;0.1463
+Técnico em Prevenção e Combate a Incêndio;30305;Tenente do corpo de bombeiros militar;0.1457
+Técnico em Processamento da Madeira;772115;Operador de secagem de madeira;0.1536
+Técnico em Processamento da Madeira;321205;Técnico em madeira;0.1438
+Técnico em Processamento da Madeira;773415;Operador de máquina de usinagem de madeira (produção em série);0.1425
+Técnico em Processamento da Madeira;773320;Operador de lixadeira (usinagem de madeira);0.131
+Técnico em Processamento da Madeira;773315;Operador de fresadora (usinagem de madeira);0.1263
+Técnico em Processos Fotográficos;372110;Iluminador (televisão);0.1745
+Técnico em Processos Fotográficos;372105;Diretor de fotografia;0.1629
+Técnico em Processos Fotográficos;372115;Operador de câmera de televisão;0.1565
+Técnico em Processos Fotográficos;261815;Fotógrafo retratista;0.1407
+Técnico em Processos Fotográficos;261820;Repórter fotográfico;0.139
+Técnico em Processos Gráficos;371310;Técnico gráfico;0.1528
+Técnico em Processos Gráficos;766205;Impressor (serigrafia);0.146
+Técnico em Processos Gráficos;766250;Impressor tipográfico;0.1442
+Técnico em Processos Gráficos;766145;Operador de sistemas de prova (analógico e digital);0.1432
+Técnico em Processos Gráficos;214610;Engenheiro metalurgista;0.1417
+Técnico em Produção Cultural;234910;Professor de artes visuais no ensino superior (artes plásticas e multimídia);0.1358
+Técnico em Produção Cultural;234915;Professor de música no ensino superior;0.1346
+Técnico em Produção Cultural;234905;Professor de artes do espetáculo no ensino superior;0.1272
+Técnico em Produção Cultural;242910;Oficial técnico de inteligência;0.1169
+Técnico em Produção Cultural;261305;Arquivista;0.1056
+Técnico em Produção de Materiais Didáticos Bilíngues em Libras/Língua Portuguesa;239205;Professor de alunos com deficiência auditiva e surdos;0.2397
+Técnico em Produção de Materiais Didáticos Bilíngues em Libras/Língua Portuguesa;239220;Professor de alunos com deficiência múltipla;0.1935
+Técnico em Produção de Materiais Didáticos Bilíngues em Libras/Língua Portuguesa;261530;Redator de textos técnicos;0.1721
+Técnico em Produção de Materiais Didáticos Bilíngues em Libras/Língua Portuguesa;239225;Professor de alunos com deficiência visual;0.1637
+Técnico em Produção de Materiais Didáticos Bilíngues em Libras/Língua Portuguesa;239210;Professor de alunos com deficiência física;0.1635
+Técnico em Produção de Moda;375125;Produtor de moda;0.1234
+Técnico em Produção de Moda;253115;Publicitário;0.1094
+Técnico em Produção de Moda;262245;Diretor de animação(audiovisual);0.1073
+Técnico em Produção de Moda;242910;Oficial técnico de inteligência;0.1009
+Técnico em Produção de Moda;262425;Desenhista industrial de produto de moda (designer de moda);0.1003
+Técnico em Produção de Áudio e Vídeo;374405;Editor de mídia audiovisual;0.1745
+Técnico em Produção de Áudio e Vídeo;262135;Tecnólogo em produção audiovisual;0.1457
+Técnico em Produção de Áudio e Vídeo;373145;Assistente de operações audiovisuais;0.1447
+Técnico em Produção de Áudio e Vídeo;373105;Operador de mídia audiovisual;0.1434
+Técnico em Produção de Áudio e Vídeo;373130;Técnico de sistemas audiovisuais;0.1413
+Técnico em Programação de Jogos Digitais;371415;Brinquedista;0.153
+Técnico em Programação de Jogos Digitais;317120;Desenvolvedor de multimídia;0.1436
+Técnico em Programação de Jogos Digitais;242910;Oficial técnico de inteligência;0.1269
+Técnico em Programação de Jogos Digitais;371410;Recreador;0.1118
+Técnico em Programação de Jogos Digitais;313205;Técnico de manutenção eletrônica;0.111
+Técnico em Prótese Dentária;322505;Técnico de ortopedia;0.1527
+Técnico em Prótese Dentária;322255;Técnico em agente comunitário de saúde;0.1378
+Técnico em Prótese Dentária;322410;Protético dentário;0.1057
+Técnico em Prótese Dentária;322405;Técnico em saúde bucal;0.1002
+Técnico em Prótese Dentária;322605;Técnico de imobilização ortopédica;0.1
+Técnico em Publicidade;253115;Publicitário;0.1778
+Técnico em Publicidade;253410;Influenciador digital;0.1599
+Técnico em Publicidade;253405;Analista de mídias sociais;0.1535
+Técnico em Publicidade;253125;Diretor de arte (publicidade);0.1451
+Técnico em Publicidade;253110;Redator de publicidade;0.1337
+Técnico em Qualidade;142125;Analista de compliance;0.1703
+Técnico em Qualidade;351605;Técnico em segurança do trabalho;0.1446
+Técnico em Qualidade;720160;Supervisor de controle de tratamento térmico;0.1431
+Técnico em Qualidade;720105;Mestre (afiador de ferramentas);0.1416
+Técnico em Qualidade;242205;Procurador da república;0.1405
+Técnico em Química;311105;Técnico químico;0.2577
+Técnico em Química;214605;Engenheiro de materiais;0.1863
+Técnico em Química;214610;Engenheiro metalurgista;0.1861
+Técnico em Química;325205;Técnico de alimentos;0.1772
+Técnico em Química;311115;Técnico em curtimento;0.1767
+Técnico em Radiologia;324120;Tecnólogo em radiologia;0.1668
+Técnico em Radiologia;324125;Tecnólogo oftálmico;0.1636
+Técnico em Radiologia;324115;Técnico em radiologia e imagenologia;0.1594
+Técnico em Radiologia;324140;Dosimetrista clínico;0.1573
+Técnico em Radiologia;221205;Biomédico;0.1487
+Técnico em Reciclagem;221115;Biólogo em saúde;0.1927
+Técnico em Reciclagem;221110;Biólogo em meio ambiente e biodiversidade;0.1763
+Técnico em Reciclagem;514230;Coletor de resíduos sólidos de serviços de saúde;0.1455
+Técnico em Reciclagem;222130;Agroecólogo;0.1451
+Técnico em Reciclagem;221105;Biólogo;0.1433
+Técnico em Recursos Humanos;123205;Diretor de recursos humanos;0.2419
+Técnico em Recursos Humanos;123210;Diretor de relações de trabalho;0.2399
+Técnico em Recursos Humanos;142205;Gerente de recursos humanos;0.1987
+Técnico em Recursos Humanos;252405;Analista de recursos humanos;0.198
+Técnico em Recursos Humanos;760405;Supervisor  (indústria de calçados e artefatos de couro);0.142
+Técnico em Recursos Pesqueiros;222130;Agroecólogo;0.2697
+Técnico em Recursos Pesqueiros;222135;Tecnólogo em agroecologia;0.2538
+Técnico em Recursos Pesqueiros;222125;Tecnólogo em agronegócio;0.2458
+Técnico em Recursos Pesqueiros;141120;Gerente de produção e operações pesqueiras;0.1932
+Técnico em Recursos Pesqueiros;631105;Pescador artesanal de água doce;0.1922
+Técnico em Redes de Computadores;212310;Administrador de redes;0.3103
+Técnico em Redes de Computadores;212315;Administrador de sistemas operacionais;0.3012
+Técnico em Redes de Computadores;212305;Administrador de banco de dados;0.2423
+Técnico em Redes de Computadores;212320;Administrador em segurança da informação;0.2167
+Técnico em Redes de Computadores;317205;Operador de computador;0.2086
+Técnico em Refrigeração e Climatização;312105;Técnico de obras civis;0.1191
+Técnico em Refrigeração e Climatização;314115;Técnico mecânico (calefação, ventilação, refrigeração e climatização);0.1173
+Técnico em Refrigeração e Climatização;318310;Desenhista técnico (calefação, ventilação e refrigeração);0.1107
+Técnico em Refrigeração e Climatização;911205;Mecânico de manutenção e instalação de aparelhos de climatização e  refrigeração;0.1102
+Técnico em Refrigeração e Climatização;725705;Mecânico de refrigeração e climatização;0.1085
+Técnico em Registros e Informações em Saúde;415310;Analista de informação em saúde;0.2432
+Técnico em Registros e Informações em Saúde;351910;Agente técnico de inteligência;0.1894
+Técnico em Registros e Informações em Saúde;322255;Técnico em agente comunitário de saúde;0.1886
+Técnico em Registros e Informações em Saúde;351905;Agente de inteligência;0.1773
+Técnico em Registros e Informações em Saúde;261215;Analista de informações (pesquisador de informações de rede);0.1689
+Técnico em Regência;262615;Músico regente;0.1861
+Técnico em Regência;262610;Músico arranjador;0.1716
+Técnico em Regência;262605;Compositor;0.169
+Técnico em Regência;262620;Musicólogo;0.1511
+Técnico em Regência;262705;Músico intérprete cantor;0.1349
+Técnico em Rádio e Televisão;262605;Compositor;0.1486
+Técnico em Rádio e Televisão;262610;Músico arranjador;0.1366
+Técnico em Rádio e Televisão;262615;Músico regente;0.1267
+Técnico em Rádio e Televisão;374205;Cenotécnico (cinema, vídeo, televisão, teatro e espetáculos);0.1199
+Técnico em Rádio e Televisão;262505;Ator;0.1192
+Técnico em Saneamento;312210;Técnico de saneamento;0.253
+Técnico em Saneamento;862305;Operador de estação de tratamento de água e efluentes;0.2164
+Técnico em Saneamento;214260;Engenheiro civil (saneamento);0.178
+Técnico em Saneamento;312105;Técnico de obras civis;0.174
+Técnico em Saneamento;214270;Engenheiro civil (transportes e trânsito);0.1611
+Técnico em Saúde Bucal;322415;Auxiliar em saúde bucal;0.2315
+Técnico em Saúde Bucal;322430;Auxiliar em saúde bucal da estratégia de saúde da família;0.2193
+Técnico em Saúde Bucal;322405;Técnico em saúde bucal;0.2126
+Técnico em Saúde Bucal;322425;Técnico em saúde bucal da estratégia de saúde da família;0.2123
+Técnico em Saúde Bucal;223293;Cirurgião-dentista da estratégia de saúde da família;0.1622
+Técnico em Secretaria Escolar;239425;Psicopedagogo;0.2287
+Técnico em Secretaria Escolar;239410;Orientador educacional;0.2281
+Técnico em Secretaria Escolar;239405;Coordenador pedagógico;0.2218
+Técnico em Secretaria Escolar;231210;Professor de nível superior do ensino fundamental (primeira a quarta série);0.2188
+Técnico em Secretaria Escolar;239430;Supervisor de ensino;0.2092
+Técnico em Secretariado;233135;Professor de tecnologia e cálculo técnico;0.1268
+Técnico em Secretariado;233105;Professor da área de meio ambiente;0.1264
+Técnico em Secretariado;351905;Agente de inteligência;0.1183
+Técnico em Secretariado;252105;Administrador;0.1142
+Técnico em Secretariado;142355;Analista de e-commerce;0.1132
+Técnico em Segurança do Trabalho;351605;Técnico em segurança do trabalho;0.2837
+Técnico em Segurança do Trabalho;351610;Técnico em higiene ocupacional;0.2718
+Técnico em Segurança do Trabalho;214940;Higienista ocupacional;0.2267
+Técnico em Segurança do Trabalho;214950;Ergonomista;0.2227
+Técnico em Segurança do Trabalho;311205;Técnico em petroquímica;0.1845
+Técnico em Seguros;351740;Técnico de seguros;0.2042
+Técnico em Seguros;351730;Inspetor de sinistros;0.1789
+Técnico em Seguros;354505;Corretor de seguros;0.1768
+Técnico em Seguros;351705;Analista de seguros (técnico);0.1564
+Técnico em Seguros;351715;Assistente comercial de seguros;0.1496
+Técnico em Sensores de Aviação;342515;Fiscal de aviação civil (fac);0.148
+Técnico em Sensores de Aviação;215315;Instrutor de vôo;0.146
+Técnico em Sensores de Aviação;141825;Gerente de segurança da aviação civil;0.1415
+Técnico em Sensores de Aviação;342530;Inspetor de aviação civil;0.1414
+Técnico em Sensores de Aviação;342550;Agente de proteção de aviação civil;0.1394
+Técnico em Serviços Jurídicos;241020;Advogado (direito público);0.1412
+Técnico em Serviços Jurídicos;241040;Consultor jurídico;0.1332
+Técnico em Serviços Jurídicos;241015;Advogado (direito civil);0.1319
+Técnico em Serviços Jurídicos;241010;Advogado de empresa;0.1311
+Técnico em Serviços Jurídicos;241025;Advogado (direito penal);0.1306
+Técnico em Serviços Públicos;111405;Dirigente do serviço público federal;0.1732
+Técnico em Serviços Públicos;111415;Dirigente do serviço público municipal;0.1709
+Técnico em Serviços Públicos;111410;Dirigente do serviço público estadual e distrital;0.1667
+Técnico em Serviços Públicos;351605;Técnico em segurança do trabalho;0.1656
+Técnico em Serviços Públicos;111505;Especialista de políticas públicas e gestão governamental - eppgg;0.1559
+Técnico em Serviços de Restaurante e Bar;141515;Gerente de bar;0.2995
+Técnico em Serviços de Restaurante e Bar;510130;Chefe de bar;0.2878
+Técnico em Serviços de Restaurante e Bar;141510;Gerente de restaurante;0.2627
+Técnico em Serviços de Restaurante e Bar;510135;Maître;0.259
+Técnico em Serviços de Restaurante e Bar;513410;Sommelier;0.2299
+Técnico em Sinais Navais;341235;Técnico em sinalização náutica;0.2043
+Técnico em Sinais Navais;341245;Técnico em sinais navais;0.1908
+Técnico em Sinais Navais;312315;Técnico em hidrografia;0.1569
+Técnico em Sinais Navais;341250;Auxiliar técnico de sinalização nautica;0.1398
+Técnico em Sinais Navais;215115;Comandante da marinha mercante;0.1208
+Técnico em Sinalização Náutica;341235;Técnico em sinalização náutica;0.354
+Técnico em Sinalização Náutica;341250;Auxiliar técnico de sinalização nautica;0.2725
+Técnico em Sinalização Náutica;312315;Técnico em hidrografia;0.1962
+Técnico em Sinalização Náutica;341245;Técnico em sinais navais;0.1749
+Técnico em Sinalização Náutica;312310;Técnico em geodésia e cartografia;0.1341
+Técnico em Sistemas a Gás;860115;Supervisor de operação elétrica (geração, transmissão e distribuição de energia elétrica);0.1858
+Técnico em Sistemas a Gás;311205;Técnico em petroquímica;0.1603
+Técnico em Sistemas a Gás;862405;Operador de instalação de extração, processamento, envasamento e distribuição de gases;0.1553
+Técnico em Sistemas a Gás;860110;Supervisor de operação de fluidos (distribuição, captação, tratamento de água, gases, vapor);0.1523
+Técnico em Sistemas a Gás;862155;Operador de utilidade (produção e distribuição de vapor, gás, óleo, combustível, energia, oxigênio);0.1409
+Técnico em Sistemas de Energia Renovável;861105;Operador de central hidrelétrica;0.3034
+Técnico em Sistemas de Energia Renovável;861110;Operador de quadro de distribuição de energia elétrica;0.2888
+Técnico em Sistemas de Energia Renovável;861115;Operador de central termoelétrica;0.2674
+Técnico em Sistemas de Energia Renovável;860115;Supervisor de operação elétrica (geração, transmissão e distribuição de energia elétrica);0.2559
+Técnico em Sistemas de Energia Renovável;861120;Operador de reator nuclear;0.2475
+Técnico em Soldagem;314615;Técnico em estruturas metálicas;0.3264
+Técnico em Soldagem;314625;Tecnólogo em soldagem;0.3048
+Técnico em Soldagem;314620;Técnico em soldagem;0.273
+Técnico em Soldagem;314610;Técnico em caldeiraria;0.2426
+Técnico em Soldagem;724305;Brasador;0.1588
+Técnico em Suprimento;862160;Operador de abastecimento de combustível de aeronave;0.1244
+Técnico em Suprimento;341115;Mecânico de vôo;0.1193
+Técnico em Suprimento;341110;Piloto comercial de helicóptero (exceto linhas aéreas);0.1182
+Técnico em Suprimento;341120;Piloto agrícola;0.1176
+Técnico em Suprimento;341105;Piloto comercial (exceto linhas aéreas);0.1148
+Técnico em Teatro;262320;Cenógrafo de teatro;0.2261
+Técnico em Teatro;262330;Diretor de arte;0.2118
+Técnico em Teatro;262305;Cenógrafo carnavalesco e festas populares;0.2116
+Técnico em Teatro;262325;Cenógrafo de tv;0.2086
+Técnico em Teatro;262315;Cenógrafo de eventos;0.2085
+Técnico em Telecomunicações;313315;Técnico de telecomunicações (telefonia);0.2603
+Técnico em Telecomunicações;313320;Técnico de transmissão (telecomunicações);0.2547
+Técnico em Telecomunicações;313310;Técnico de rede (telecomunicações);0.2446
+Técnico em Telecomunicações;313305;Técnico de comunicação de dados (telecomunicações);0.2406
+Técnico em Telecomunicações;214340;Engenheiro de telecomunicações;0.2034
+Técnico em Terapias Holísticas;376105;Dançarino tradicional;0.1443
+Técnico em Terapias Holísticas;376110;Dançarino popular;0.1406
+Técnico em Terapias Holísticas;322255;Técnico em agente comunitário de saúde;0.14
+Técnico em Terapias Holísticas;322130;Esteticista;0.1169
+Técnico em Terapias Holísticas;262830;Professor de dança;0.1005
+Técnico em Tradução e Interpretação de Libras;111210;Vice-presidente da república;0.2596
+Técnico em Tradução e Interpretação de Libras;111255;Vice-prefeito;0.2596
+Técnico em Tradução e Interpretação de Libras;239205;Professor de alunos com deficiência auditiva e surdos;0.2389
+Técnico em Tradução e Interpretação de Libras;111240;Vice-governador de estado;0.2272
+Técnico em Tradução e Interpretação de Libras;111245;Vice-governador do distrito federal;0.2063
+Técnico em Transações Imobiliárias;354605;Corretor de imóveis;0.226
+Técnico em Transações Imobiliárias;354610;Corretor de grãos;0.1391
+Técnico em Transações Imobiliárias;253305;Corretor de valores, ativos financeiros, mercadorias e derivativos;0.1319
+Técnico em Transações Imobiliárias;354410;Avaliador de imóveis;0.1219
+Técnico em Transações Imobiliárias;253220;Gerente de grandes contas (corporate);0.1199
+Técnico em Transporte Aquaviário;510105;Supervisor de transportes;0.1521
+Técnico em Transporte Aquaviário;783230;Bloqueiro (trabalhador portuário);0.1369
+Técnico em Transporte Aquaviário;342110;Operador de transporte multimodal;0.1288
+Técnico em Transporte Aquaviário;342105;Analista de transporte em comércio exterior;0.1246
+Técnico em Transporte Aquaviário;341225;Patrão de pesca na navegação interior;0.122
+Técnico em Transporte Metroferroviário;342410;Operador de centro de controle (ferrovia e metrô);0.3037
+Técnico em Transporte Metroferroviário;342405;Agente de estação (ferrovia e metrô);0.2922
+Técnico em Transporte Metroferroviário;914305;Mecânico de manutenção de veículos ferroviários;0.2058
+Técnico em Transporte Metroferroviário;783105;Agente de pátio;0.1873
+Técnico em Transporte Metroferroviário;782610;Maquinista de trem;0.1431
+Técnico em Transporte Rodoviário;342305;Chefe de serviço de transporte rodoviário (passageiros e cargas);0.2342
+Técnico em Transporte Rodoviário;342310;Inspetor de serviços de transportes rodoviários (passageiros e cargas);0.209
+Técnico em Transporte Rodoviário;141605;Gerente de operações de transportes;0.1961
+Técnico em Transporte Rodoviário;342315;Supervisor de carga e descarga;0.1852
+Técnico em Transporte Rodoviário;510105;Supervisor de transportes;0.1684
+Técnico em Transporte de Cargas;510105;Supervisor de transportes;0.2099
+Técnico em Transporte de Cargas;782210;Operador de docagem;0.1681
+Técnico em Transporte de Cargas;342125;Tecnólogo em logística de transporte;0.1679
+Técnico em Transporte de Cargas;342110;Operador de transporte multimodal;0.1673
+Técnico em Transporte de Cargas;782205;Guincheiro (construção civil);0.1671
+Técnico em Treinamento e Instrução de Cães-Guias;623035;Instrutor de mobilidade com cães-guia;0.3095
+Técnico em Treinamento e Instrução de Cães-Guias;613010;Criador de animais domésticos;0.1812
+Técnico em Treinamento e Instrução de Cães-Guias;519330;Condutor de cães domésticos;0.1681
+Técnico em Treinamento e Instrução de Cães-Guias;239220;Professor de alunos com deficiência múltipla;0.1084
+Técnico em Treinamento e Instrução de Cães-Guias;251540;Psicólogo do trabalho;0.107
+Técnico em Trânsito;517220;Agente de trânsito;0.2826
+Técnico em Trânsito;517210;Policial rodoviário federal;0.214
+Técnico em Trânsito;517235;Guarda portuário;0.186
+Técnico em Trânsito;517225;Policial legislativo;0.133
+Técnico em Trânsito;214270;Engenheiro civil (transportes e trânsito);0.1229
+Técnico em Têxtil;311625;Técnico têxtil de tecelagem;0.2014
+Técnico em Têxtil;311610;Técnico têxtil (tratamentos químicos);0.1868
+Técnico em Têxtil;760125;Mestre (indústria têxtil e de confecções);0.1846
+Técnico em Têxtil;311605;Técnico têxtil;0.1804
+Técnico em Têxtil;311620;Técnico têxtil de malharia;0.1743
+Técnico em Vendas;354705;Representante comercial autônomo;0.2075
+Técnico em Vendas;253220;Gerente de grandes contas (corporate);0.1967
+Técnico em Vendas;252540;Analista de produtos bancários;0.1852
+Técnico em Vendas;354135;Técnico de vendas;0.1844
+Técnico em Vendas;354140;Técnico em atendimento e vendas;0.1829
+Técnico em Vestuário;760310;Encarregado de costura na confecção do vestuário;0.1911
+Técnico em Vestuário;760305;Encarregado de corte na confecção do vestuário;0.189
+Técnico em Vestuário;760405;Supervisor  (indústria de calçados e artefatos de couro);0.1805
+Técnico em Vestuário;763215;Costureiro, a  máquina  na confecção em série;0.1736
+Técnico em Vestuário;763210;Costureiro na confecção em série;0.1709
+Técnico em Veterinária;519305;Auxiliar de veterinário;0.3116
+Técnico em Veterinária;322255;Técnico em agente comunitário de saúde;0.1995
+Técnico em Veterinária;515105;Agente comunitário de saúde;0.1992
+Técnico em Veterinária;623025;Casqueador de animais;0.1939
+Técnico em Veterinária;515125;Agente indígena de saúde;0.1877
+Técnico em Vidros;820210;Supervisor de fabricação de produtos de vidro;0.1729
+Técnico em Vidros;311305;Técnico em materiais, produtos cerâmicos e vidros;0.1587
+Técnico em Vidros;311410;Técnico em plástico;0.156
+Técnico em Vidros;311405;Técnico em borracha;0.155
+Técnico em Vidros;752115;Soprador de vidro;0.1533
+Técnico em Vigilância em Saúde;322255;Técnico em agente comunitário de saúde;0.2109
+Técnico em Vigilância em Saúde;223565;Enfermeiro da estratégia de saúde da família;0.2079
+Técnico em Vigilância em Saúde;221115;Biólogo em saúde;0.188
+Técnico em Vigilância em Saúde;131225;Sanitarista;0.1872
+Técnico em Vigilância em Saúde;221110;Biólogo em meio ambiente e biodiversidade;0.1848
+Técnico em Viticultura e Enologia;325005;Enólogo;0.3172
+Técnico em Viticultura e Enologia;841720;Trabalhador de fabricação de vinhos;0.2025
+Técnico em Viticultura e Enologia;810305;Mestre de produção farmacêutica;0.1364
+Técnico em Viticultura e Enologia;325015;Perfumista;0.1329
+Técnico em Viticultura e Enologia;311405;Técnico em borracha;0.1319
+Técnico em Zootecnia;223305;Médico veterinário;0.2614
+Técnico em Zootecnia;223310;Zootecnista;0.2604
+Técnico em Zootecnia;222130;Agroecólogo;0.2527
+Técnico em Zootecnia;222135;Tecnólogo em agroecologia;0.2399
+Técnico em Zootecnia;222125;Tecnólogo em agronegócio;0.2004
+Técnico em Óptica;322305;Técnico em óptica e optometria;0.3222
+Técnico em Óptica;313505;Técnico em fotônica;0.1225
+Técnico em Óptica;915405;Reparador de equipamentos fotográficos;0.1216
+Técnico em Óptica;324125;Tecnólogo oftálmico;0.1206
+Técnico em Óptica;752235;Surfassagista;0.1043
+Técnico em Órteses e Próteses;322505;Técnico de ortopedia;0.2936
+Técnico em Órteses e Próteses;223905;Terapeuta ocupacional;0.1995
+Técnico em Órteses e Próteses;223825;Fonoaudiólogo em disfagia;0.1986
+Técnico em Órteses e Próteses;223845;Fonoaudiólogo em voz;0.1981
+Técnico em Órteses e Próteses;223820;Fonoaudiólogo em audiologia;0.1971
