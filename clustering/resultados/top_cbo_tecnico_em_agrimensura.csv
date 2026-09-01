@@ -1,0 +1,6 @@
+curso,cluster_curso,posicao,id,nome,cluster,x,y,similaridade,mesmo_cluster_curso
+Técnico em Agrimensura,109,1,CBO_312305,Técnico em agrimensura,109,-5.418651,3.7079723,0.8452344,True
+Técnico em Agrimensura,109,2,CBO_312310,Técnico em geodésia e cartografia,109,-5.381581,3.748164,0.84291166,True
+Técnico em Agrimensura,109,3,CBO_214805,Engenheiro agrimensor,109,-5.441307,3.7076654,0.8307276,True
+Técnico em Agrimensura,109,4,CBO_316105,Técnico em geofísica,109,-5.4467573,3.576875,0.8075171,True
+Técnico em Agrimensura,109,5,CBO_214810,Engenheiro cartógrafo,109,-5.438132,3.7215672,0.8062893,True
