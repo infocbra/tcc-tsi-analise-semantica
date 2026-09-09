@@ -1,0 +1,33 @@
+id,tipo,nome,cluster,x,y
+CNCT_27,CNCT,Técnico em Controle Ambiental,0,1.2949901,-1.0420178
+CNCT_28,CNCT,Técnico em Meio Ambiente,0,1.2275234,-1.085613
+CNCT_29,CNCT,Técnico em Meteorologia,0,1.4745048,-1.2210028
+CNCT_30,CNCT,Técnico em Reciclagem,0,1.3259355,-0.91465545
+CNCT_35,CNCT,Técnico em Instrumentação Industrial,0,1.3420281,-0.6586356
+CNCT_54,CNCT,Técnico em Refrigeração e Climatização,0,1.3658576,-0.6357366
+CNCT_56,CNCT,Técnico em Sistemas de Energia Renovável,0,1.6503285,-0.51330686
+CNCT_60,CNCT,Técnico em Infraestrutura Escolar,0,1.3774667,-0.8923912
+CNCT_62,CNCT,Técnico em Desenvolvimento Comunitário,0,1.2966535,-0.96340585
+CNCT_67,CNCT,Técnico em Laboratório de Ciências da Natureza,0,1.2024559,-1.0436902
+CNCT_68,CNCT,Técnico em Multimeios Didáticos,0,1.2431713,-0.80315137
+CNCT_77,CNCT,Técnico em Cooperativismo,0,1.3652655,-0.98008907
+CNCT_96,CNCT,Técnico em Edificações,0,1.5714228,-0.872979
+CNCT_97,CNCT,Técnico em Estradas,0,1.4736129,-1.1462399
+CNCT_98,CNCT,Técnico em Saneamento,0,1.3550915,-0.97343767
+CNCT_99,CNCT,Técnico em Agrimensura,0,1.3866278,-1.206638
+CNCT_102,CNCT,Técnico em Hidrologia,0,1.3945,-1.2207333
+CNCT_105,CNCT,Técnico em Trânsito,0,1.6304973,-0.9450907
+CNCT_121,CNCT,Técnico em Cenografia,0,1.4286879,-1.0593728
+CNCT_124,CNCT,Técnico em Design de Interiores,0,1.5539163,-0.7814658
+CNCT_139,CNCT,Técnico em Conservação e Restauro,0,1.3842373,-1.0497876
+CNCT_142,CNCT,Técnico em Museologia,0,1.4150603,-0.79316753
+CNCT_143,CNCT,Técnico em Paisagismo,0,1.3777158,-1.029139
+CNCT_144,CNCT,Técnico em Produção Cultural,0,1.3175288,-0.67654127
+CNCT_167,CNCT,Técnico em Geologia,0,1.3863446,-1.2301055
+CNCT_168,CNCT,Técnico em Mineração,0,1.3637245,-1.15652
+CNCT_180,CNCT,Técnico em Florestas,0,1.2297957,-1.147
+CNCT_181,CNCT,Técnico em Defesa Civil,0,1.2969693,-1.0501437
+CNCT_184,CNCT,Técnico em Hospedagem,0,1.7238057,-0.8837229
+CNCT_187,CNCT,Técnico em Guia de Turismo,0,1.5345278,-0.9422163
+CNCT_188,CNCT,Técnico em Lazer,0,1.3987087,-0.80191344
+CNCT_207,CNCT,Técnico em Hidrografia,0,1.5050814,-1.2410935

@@ -1,0 +1,6 @@
+curso,cluster_curso,posicao,id,nome,cluster,x,y,similaridade,mesmo_cluster_curso
+Técnico Aeroportuário,26,1,CBO_342510,Despachante operacional de vôo,26,-5.3354273,6.0117383,0.8043619,True
+Técnico Aeroportuário,26,2,CBO_781310,Operador de aeronaves não tripuladas,26,-5.338876,5.929946,0.78711563,True
+Técnico Aeroportuário,26,3,CBO_141830,Gerente de segurança operacional (aviação civil),84,-5.6309943,6.294912,0.78566647,False
+Técnico Aeroportuário,26,4,CBO_342535,Operador de atendimento aeroviário,77,-5.3123484,6.0686207,0.7786711,False
+Técnico Aeroportuário,26,5,CBO_342560,Operador de rampa ( transporte aéreo),77,-5.3630385,6.139614,0.7769819,False
