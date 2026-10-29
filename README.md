@@ -89,3 +89,6 @@ Este repositório foi desenvolvido para:
 
 João Pedro Nunes Ramos\
 Érika Campos Cassimiro
+
+**Orientador:**
+Prof. Dr. Fábio Henrique M. Oliveira
